@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f0ea;
+  color: #3e2c1c;
+}
+header {
+  background-color: #8b5e3c;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  color: white;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+.hero {
+  padding: 2rem;
+  background-color: #e9ded0;
+}
+.testimonial {
+  background: #f0e6d2;
+  border-left: 5px solid #8b5e3c;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #8b5e3c;
+  color: white;
+}
+button#logoutBtn {
+  background-color: #f0e6d2;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.center {
+  text-align: center;
+  padding: 5rem 1rem;
+}
